@@ -14,7 +14,7 @@ First byte of an encoded item
 
 0xb8 == 184
     |
-    x: [55, ] long string, x-0xf8 == length of the length
+    x: [55, ] long string, x-0xb8 == length of the length
     |
 0xbf == 191
 
